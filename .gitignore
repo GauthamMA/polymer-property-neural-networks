@@ -1,0 +1,14 @@
+# VS Code settings
+.vscode/
+
+# Spreadsheets and Excel temporary files
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+~$*
+
+# Python and Jupyter temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
